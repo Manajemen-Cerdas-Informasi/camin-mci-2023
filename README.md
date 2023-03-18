@@ -18,7 +18,7 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 1. Kurnia Cahya, [Github](https://github.com/kurniacf), [DevPost](https://devpost.com/kurniacf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### Daftar Calon Admin
-1.  </br>
+1.  Hanun Shaka Puspa, [Github](https://github.com/borednuna), [LinkedIn](https://www.linkedin.com/in/hanunshaka/)</br>
 2.  </br>
 3.  </br>
 4.  </br>
