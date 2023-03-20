@@ -18,7 +18,7 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 1. Kurnia Cahya, [Github](https://github.com/kurniacf), [DevPost](https://devpost.com/kurniacf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ### Daftar Calon Admin
-1.  Fathin Muhashibi Putra, [Github](https://github.com/fathinmputra)
-2.  Farah Dhia Fadhila, [Github](https://github.com/farah-dhiaf), [LinkedIn](https://www.linkedin.com/in/farah-dhia-fadhila-03426a219/)
-3.  </br>
+1.  Fathin Muhashibi Putra, [Github](https://github.com/fathinmputra)</br>
+2.  Hanun Shaka Puspa, [Github](https://github.com/borednuna), [LinkedIn](https://www.linkedin.com/in/hanunshaka/)</br>
+3.  Farah Dhia Fadhila, [Github](https://github.com/farah-dhiaf), [LinkedIn](https://www.linkedin.com/in/farah-dhia-fadhila-03426a219/)
 4.  </br>
