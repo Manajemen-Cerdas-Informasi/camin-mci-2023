@@ -24,3 +24,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 3.  Farah Dhia Fadhila, [Github](https://github.com/farah-dhiaf), [LinkedIn](https://www.linkedin.com/in/farah-dhia-fadhila-03426a219/)</br>
 4.  Fadilla Rizky Nurhidayah, [Github](https://github.com/fadillaarn), [Linkedln](https://www.linkedin.com/in/fadilla-rizky-663b54252/)</br>
 5.  Daffa Saskara, [Github](https://github.com/daffasas), [Linkedln](https://www.linkedin.com/in/daffa-saskara-0379a2229/)</br>
+6.  Muhammad Naufal Baihaqi, [Github](https://github.com/naufalqii16), [LinkedIn](https://www.linkedin.com/in/muhammad-naufal-baihaqi/)</br>
