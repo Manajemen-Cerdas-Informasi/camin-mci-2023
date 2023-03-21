@@ -23,3 +23,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 2.  Hanun Shaka Puspa, [Github](https://github.com/borednuna), [LinkedIn](https://www.linkedin.com/in/hanunshaka/)</br>
 3.  Farah Dhia Fadhila, [Github](https://github.com/farah-dhiaf), [LinkedIn](https://www.linkedin.com/in/farah-dhia-fadhila-03426a219/)</br>
 4.  Fadilla Rizky Nurhidayah, [Github](https://github.com/fadillaarn), [Linkedln](https://www.linkedin.com/in/fadilla-rizky-663b54252/)</br>
+5.  Fadilla Rizky Nurhidayah, [Github](https://github.com/daffasas), [Linkedln](https://www.linkedin.com/in/daffa-saskara-0379a2229/)</br>
