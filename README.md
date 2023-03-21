@@ -19,7 +19,7 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 
 ### Daftar Calon Admin
 
-1.  Fathin Muhashibi Putra, [Github](https://github.com/fathinmputra)</br>
+1.  Fathin Muhashibi Putra, [Github](https://github.com/fathinmputra), [LinkedIn](https://www.linkedin.com/in/fathinmp/)</br>
 2.  Hanun Shaka Puspa, [Github](https://github.com/borednuna), [LinkedIn](https://www.linkedin.com/in/hanunshaka/)</br>
 3.  Farah Dhia Fadhila, [Github](https://github.com/farah-dhiaf), [LinkedIn](https://www.linkedin.com/in/farah-dhia-fadhila-03426a219/)</br>
 4.  Fadilla Rizky Nurhidayah, [Github](https://github.com/fadillaarn), [Linkedln](https://www.linkedin.com/in/fadilla-rizky-663b54252/)</br>
