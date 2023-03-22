@@ -26,4 +26,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 5.  Daffa Saskara, [Github](https://github.com/daffasas), [Linkedln](https://www.linkedin.com/in/daffa-saskara-0379a2229/)</br>
 6.  Muhammad Naufal Baihaqi, [Github](https://github.com/naufalqii16), [LinkedIn](https://www.linkedin.com/in/muhammad-naufal-baihaqi/)</br>
 7.  Andrian Tambunan, [Github](https://github.com/AndrianTambunan), [LinkedIn](https://www.linkedin.com/in/andrian-tambunan-58139323a/)</br>
-8.
+8.  Andika Laksana Putra, [Github](https://github.com/puyul123), [LinkedIn](https://www.linkedin.com/in/andika-laksana-putra-2578b0155/)</br>
