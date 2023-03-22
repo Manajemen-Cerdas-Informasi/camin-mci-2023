@@ -27,3 +27,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 6.  Muhammad Naufal Baihaqi, [Github](https://github.com/naufalqii16), [LinkedIn](https://www.linkedin.com/in/muhammad-naufal-baihaqi/)</br>
 7.  Andrian Tambunan, [Github](https://github.com/AndrianTambunan), [LinkedIn](https://www.linkedin.com/in/andrian-tambunan-58139323a/)</br>
 8.  Katarina Inezita Prambudi, [Github](https://github.com/katarinainezita), [LinkedIn](https://id.linkedin.com/in/katarinainezita/)</br>
+9.  Alfan Lukeyan Rizki, [Github](https://github.com/AlfanLukeyan), [Linkedln](https://www.linkedin.com/in/alfanlukeyan/)
