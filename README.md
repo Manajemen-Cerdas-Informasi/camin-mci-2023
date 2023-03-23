@@ -28,3 +28,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 7.  Andrian Tambunan, [Github](https://github.com/AndrianTambunan), [LinkedIn](https://www.linkedin.com/in/andrian-tambunan-58139323a/)</br>
 8.  Katarina Inezita Prambudi, [Github](https://github.com/katarinainezita), [LinkedIn](https://id.linkedin.com/in/katarinainezita/)</br>
 9.  Alfan Lukeyan Rizki, [Github](https://github.com/AlfanLukeyan), [Linkedln](https://www.linkedin.com/in/alfanlukeyan/)
+10. Andika Laksana Putra, [Github](https://github.com/puyul123), [LinkedIn](https://www.linkedin.com/in/andika-laksana-putra-2578b0155/)</br>
