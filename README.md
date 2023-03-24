@@ -33,3 +33,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 12. Andika Laksana Putra, [Github](https://github.com/puyul123), [LinkedIn](https://www.linkedin.com/in/andika-laksana-putra-2578b0155/)</br>
 13. Salsabila Fatma Aripa, [Github](https://github.com/bilaaripa), [LinkedIn](https://www.linkedin.com/in/salsabila-fatma-aripa-5ba15a220/)</br>
 14. Kalyana Putri Al Kanza, [Github](https://github.com/kalyanaalk), [LinkedIn](https://www.linkedin.com/in/kalyana-putri-al-kanza-71b718252/)</br>
+15. Akmal Ariq Romadhon, [Github](https://github.com/akmalariq9), [LinkedIn](https://www.linkedin.com/in/akmalariq009/)</br>
