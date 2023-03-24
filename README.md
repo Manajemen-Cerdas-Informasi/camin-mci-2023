@@ -35,3 +35,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 14. Kalyana Putri Al Kanza, [Github](https://github.com/kalyanaalk), [LinkedIn](https://www.linkedin.com/in/kalyana-putri-al-kanza-71b718252/)</br>
 15. Akmal Ariq Romadhon, [Github](https://github.com/akmalariq9), [LinkedIn](https://www.linkedin.com/in/akmalariq009/)</br>
 16. I Gusti Ngurah Ervan Juli Ardana [Github](https://github.com/NgurahErvan), [LinkedIn](https://www.linkedin.com/in/ngurah-ervan-39498a22b/)</br>
+17. Abdullah Nasih Jasir [Github](https://github.com/njabdullah), [LinkedIn](https://www.linkedin.com/in/abdullahnasihjasir/)</br>
