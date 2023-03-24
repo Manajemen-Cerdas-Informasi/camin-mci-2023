@@ -28,4 +28,5 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 7.  Andrian Tambunan, [Github](https://github.com/AndrianTambunan), [LinkedIn](https://www.linkedin.com/in/andrian-tambunan-58139323a/)</br>
 8.  Katarina Inezita Prambudi, [Github](https://github.com/katarinainezita), [LinkedIn](https://id.linkedin.com/in/katarinainezita/)</br>
 9.  Alfan Lukeyan Rizki, [Github](https://github.com/AlfanLukeyan), [Linkedln](https://www.linkedin.com/in/alfanlukeyan/)</br>
-10. Adam Haidar Azizi, [Github](https://github.com/HADAIZI), [Linkedln](https://www.linkedin.com/in/adam-haidar-06b5671b4/)
+10. Jawahirul Wildan, [Github](https://github.com/jawahirulwildan), [LinkedIn](https://www.linkedin.com/in/jawahirul-wildan-945ba4252/)</br>
+11. Adam Haidar Azizi, [Github](https://github.com/HADAIZI), [Linkedln](https://www.linkedin.com/in/adam-haidar-06b5671b4/)
