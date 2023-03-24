@@ -36,3 +36,4 @@ Nama Lengkap, [Nama Portofolio](Alamat Portofolio)
 15. Akmal Ariq Romadhon, [Github](https://github.com/akmalariq9), [LinkedIn](https://www.linkedin.com/in/akmalariq009/)</br>
 16. I Gusti Ngurah Ervan Juli Ardana [Github](https://github.com/NgurahErvan), [LinkedIn](https://www.linkedin.com/in/ngurah-ervan-39498a22b/)</br>
 17. Abdullah Nasih Jasir [Github](https://github.com/njabdullah), [LinkedIn](https://www.linkedin.com/in/abdullahnasihjasir/)</br>
+18. Dimas Fadilah Akbar, [Github](https://github.com/dimss113), [LinkedIn](https://www.linkedin.com/in/akbar-dimas-fadilah/)</br>
